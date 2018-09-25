@@ -1,0 +1,20 @@
+uuid: 8239db67-6b72-4df0-870c-f34dd31b084f
+langcode: hy
+status: true
+dependencies:
+  theme:
+    - seven
+_core:
+  default_config_hash: ZSpc3IoSaLd0PkB02nxjVPBMztIdsTdHek9SiGaqZ_c
+id: seven_page_title
+theme: seven
+region: header
+weight: -30
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Էջի վերնագիր'
+  provider: core
+  label_display: '0'
+visibility: {  }

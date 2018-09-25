@@ -1,0 +1,10 @@
+uuid: 9b11bdce-a9f5-4ed0-9d24-13520b109ff0
+langcode: hy
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BCM-vV1zzRaLHN18dqAR_CuGOj8AFJvTx7BKl_8Gcxc
+id: tools
+label: Գործիքներ
+description: 'User tool links, often added by modules'
+locked: true

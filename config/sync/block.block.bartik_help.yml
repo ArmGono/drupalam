@@ -1,0 +1,22 @@
+uuid: b403e6f4-dc05-4399-a014-b02c57c1be17
+langcode: hy
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - bartik
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: bartik_help
+theme: bartik
+region: content
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Օգնություն
+  provider: help
+  label_display: '0'
+visibility: {  }

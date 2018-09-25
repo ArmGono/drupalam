@@ -1,0 +1,20 @@
+uuid: 91b6db4d-c7a2-4489-bcad-27017a8c92eb
+langcode: hy
+status: true
+dependencies:
+  theme:
+    - bartik
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: bartik_page_title
+theme: bartik
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Էջի վերնագիր'
+  provider: core
+  label_display: '0'
+visibility: {  }
